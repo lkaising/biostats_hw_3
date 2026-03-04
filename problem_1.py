@@ -2,7 +2,7 @@
 Biostatistics Homework 3 - Problem 1
 Author: Logan Kaising
 Date: March 2026
-Software: Python 3.12 with numpy, scipy
+Software: Python 3.11.13 with numpy, scipy
 """
 
 import numpy as np
